@@ -1,10 +1,10 @@
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=ozzmhmt&show_icons=true&line_height=30&theme=cobalt">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=ozzmhmt&show_icons=true&line_height=30&theme=cobalt" alt="Mehmet's github stats" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ozzmhmt&line_height=30&theme=cobalt">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozzmhmt&line_height=30&theme=cobalt" alt="Mehmet's top-langs" />
-</a>
+<div style="width:100%;">
+    <a href="https://github-readme-stats.vercel.app/api?username=ozzmhmt&show_icons=true&line_height=30&theme=cobalt">
+        <img align="right" src="https://github-readme-stats.vercel.app/api?username=ozzmhmt&show_icons=true&line_height=30&theme=cobalt" alt="Mehmet's github stats" />
+    </a>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ozzmhmt&line_height=30&theme=cobalt">
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozzmhmt&line_height=30&theme=cobalt" alt="Mehmet's top-langs" />
+    </a>
 </div>
 
 
